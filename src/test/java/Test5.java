@@ -3,11 +3,10 @@
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test5 {
 	@Test
-	public void tc1() {
-		Reporter.log("Hello Java",true);
-		
+	public void tc2() {
+		Reporter.log("Hello Appium",true);
 		
 	}
 
